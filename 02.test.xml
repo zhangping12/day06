@@ -1,0 +1,5 @@
+<students>
+    <!-- xml's comment -->
+    <student  name="eric" id="001">1</student>
+    <student  name="eric" id="002">2</student>
+</students>
